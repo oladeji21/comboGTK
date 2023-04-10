@@ -1,0 +1,6 @@
+1_Permutate.c
+1_resource.rc
+1_MainController.c
+1_string-lib/str-common.c
+1_string-lib/stringmanip3.c
+1_string-lib/LinkedList.c

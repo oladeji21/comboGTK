@@ -1,0 +1,1 @@
+gboolean goThere(GtkWidget* w, gpointer data);
